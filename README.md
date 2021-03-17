@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 
 ### Hits
-[![Hits](https://www.notion.so/SSAFY-5-2021-b0bf391c153a4d4795824d6aafc07daf#d863b20d55b34a1db0c527bf70cf77cb)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcngjsrnr&count_bg=%230F0F0F&title_bg=%23666666&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 - :wave: Hi, I’m @cngjsrnr
