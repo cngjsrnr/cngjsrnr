@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 - :eyes: I’m interested in Java / Backend...
 - :seedling: I’m currently learning Algorithms ...
 - :fire: I’m learning on SSAFY (Samsung Software Academy For Youth) 
-- :mailbox: How to reach me @cngjsrnr
 
 <!---
 edenist-x-x/edenist-x-x is a :sparkles: special :sparkles: repository because its README.md (this file) appears on your GitHub profile.
